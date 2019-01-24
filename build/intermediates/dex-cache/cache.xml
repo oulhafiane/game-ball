@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/9a4b713a666dc512543221dc441a408174c3ec35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_737c1a084370edc5d0a59c92fcd51bac15abd2ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/695393b5424a72475bee926f3f436551469fba22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9fbd4f115673b1985b9c71f1ccf5a6d7ed03c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_709e4d5b38619288cd884a423036ac7eba7487eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_ac724099a19221208d1414756c4f7610b0f7235d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.3_4ed0408bb12e767914d0273df4ec345ae7b8303b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/83dcaad4a089f1d0c8acd6047e3ed03336a4fc15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d509080615f69131204bb95b807756beff962efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_1ff5f74ce222db777ee630e0e6b9f7c446988118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/bb4648993a9a76842d259e60136078a6984899c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a9dab9557c9987fe9e06aff974cbd7ced7662d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_353385aaa4c004eae654fb130fbf09fd869a378f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/1df9a42de276aa33e9f2b7364b7619bb4762ad6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c999c05b0762f3435067a8995ff391f8a243644d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/bb747b3cfc4e14c14500708f4c405ec416f14cda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="924cf75ca3a2993ef180d8445d5202fbfe8bbb4b">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05ef73a304b6bd406f521fdb89f490c3ee126b76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/6e3469bab013671f6aa2acbb9f5f7bbcf915edce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_257fc57b8236163abc5f8154f8ba5b3f2fc4293b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/80c85411d3b75a551bfd1f74cbf1d59246492a33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b16cc2e102c518ec942f42bcfc308651090ee60c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/aca78dfd52a347471a5bb66ec0e1b23ba46e5376/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73605634d226d0a4ff0c71944e23394703dc33d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/9f36019e655bbf86a9851e9861b3cc729c3811ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4deb3a11f41db64879d9a2ae91fb6d9dcbd7c612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/a25f0e8fb86cf2478fdcc9642c3d0f36518cf8bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2b29f38717182645621a1b3bc718843146d88f49">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7bc1c5f5b03794515e2604b66c1bd658dacfa63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/ddfc0b033d42a5a261abb000d543bef71f3fc7ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c1db439c214568a3bc73b35fa6bb52bb494ad3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.2_d8ed6ed244c6dc3eb200ba97ad922710cf5eb359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/805237de1362ac55d26bbe8a92646f62bdcd4521/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c338df65f1f3f8eb3a70bcc74061f5b42e09007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/024be9f930e1e74a1cc84cd94b7312aebaf39f0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8484d5b4369cc7ab8d5722290ed25d134afde322">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31b1f1861ef0094cb3f71d177bbd55506512e259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/e2397a446253f7261c58d8c6e0b6d4a4c3839e20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_708c428f3de66968cab66b80afa3361086f5df54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_e098759994441abfc42a474a270bb5c4aaacdb48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/07f6780ec1e2d2eef852cc9515c111849cb374e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a33ce20059e14d44f2376e20d3227e551aa4360/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/77ab678984233365292960aa2aa93a7528a380c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2fdba52179163763ebd95f594bda3212409610c0">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff4f854d7ea3a832885b2cf01663e27180d89372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/7963f9823a198b8e8eeb86632f68978f98b05ff3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2502a6ed2f9cc94adbfca540492b1a0d1ceaa19a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/c3fcab56a37f8792e15f181b8b92f83a46c32804/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1d281c6314e6cd507339b9987886c25020ac9160">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b63ab1ce50d1c149758c63f798bf37712c26417f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/d8783cb426e7c2d10d228c272a7d655b224e7dcb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6da9d69b80f3af4232efd5cb17eb2605aa673e70">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07eda622d10a04b4a217ca22fda6b74f2172ab8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/41358cb0ee80888936f548abbeaaffddbb4d2c4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b22e1ceb96e1bc7776c30ea4e5463b76de84195a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/01713855665f68cec4b84a420309826c4931fcc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71bc239c591a359f1d14cc5a505540c6e0e6cf00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/94d4c032fedfdcc176b752cfc954fe02660ffc12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8970736055b7d98cbce5605262571c3e2bfbe7aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/80e97625267d544f9b431a896392e236c878474e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="51439f5fd81208cae8623ce21acd1ca7a73a3d33">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92cbbd672b89b3192d73bbb8ddfd42df9e19a2bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/c0cba0905bf275ac28abb49c380c443a7438798a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd4f79fbeddeef15dd2d382407ae0ea61da047d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/goinfre/.android/build-cache/4224cc0a372085c9ccd66fa2a6b42a63d00397c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfb5349a21e42c5b1d72cf8d8dcc6aaffd9af178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="921d9a506a673dc8bf3c4d8c7465f07c4232f73f">
+        <dex dex="/Users/zoulhafi/Desktop/GameBall/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4dff234aa4eff93fe69fb870dacfde53dd4960cc/classes.dex" />
+    </item>
+
+</items>

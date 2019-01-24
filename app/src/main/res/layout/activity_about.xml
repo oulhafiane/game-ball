@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.oulhafiane.gameball.About">
+    <TextView
+        android:id="@+id/textNameGame"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Game Ball"
+        android:gravity="center|center_vertical|center_horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textDeveloper"
+        android:layout_below="@+id/textNameGame"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:gravity="center|center_vertical|center_horizontal"
+        android:text="Developer : Oulhafiane Zakariaa" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="© Copyright www.oulhafiane.com"
+        android:id="@+id/textAbout"
+        android:layout_below="@+id/textDeveloper"
+        android:layout_centerHorizontal="true"
+        android:gravity="center|center_horizontal|fill_vertical"
+        android:textStyle="bold" />
+</RelativeLayout>

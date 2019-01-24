@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total Ball : 0"
+            android:id="@+id/textTotalBall"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"
+            android:textIsSelectable="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Use : "
+            android:id="@+id/textShowUse"
+            android:textSize="20sp"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="0 x "
+            android:id="@+id/textBall"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:gravity="center_vertical"
+            android:layout_above="@+id/buttonResume"
+            android:layout_toRightOf="@+id/ImageBall"
+            android:layout_toEndOf="@+id/ImageBall"
+            android:layout_below="@+id/textTotalBall" />
+
+        <ImageView
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:id="@+id/ImageBall"
+            android:src="@drawable/airball"
+            android:layout_below="@+id/textTotalBall"
+            android:layout_alignLeft="@+id/textTotalBall"
+            android:layout_alignStart="@+id/textTotalBall"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:visibility="invisible" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Resume"
+            android:id="@+id/buttonResume"
+            android:textSize="10sp"
+            android:layout_below="@+id/ImageBall"
+            android:layout_alignLeft="@+id/textBall"
+            android:layout_alignStart="@+id/textBall" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="© Copyright Oulhafiane.com"
+            android:id="@+id/textCopyright"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+</LinearLayout>
