@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-applinks-4.40.0">
+    <CLASSES>
+      <root url="file:///goinfre/.android/build-cache/7df35a78f05b532009cdd115673b0f79d5bd8cce/output/res" />
+      <root url="jar:///goinfre/.android/build-cache/7df35a78f05b532009cdd115673b0f79d5bd8cce/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

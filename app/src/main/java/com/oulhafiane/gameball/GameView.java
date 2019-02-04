@@ -79,7 +79,8 @@ public class GameView extends Activity implements GestureDetector.OnDoubleTapLis
         eat = MediaPlayer.create(this,R.raw.eat);
         die = MediaPlayer.create(this,R.raw.die);
         boom = MediaPlayer.create(this,R.raw.boom);
-        nbrNewBall = loadNbrBall("NbrBalls");
+        //nbrNewBall = loadNbrBall("NbrBalls");
+        nbrNewBall = 2;
 
         for(int i=0;i<2;i++){
             balls.add(new BlueBall(0, 0, getResources(), i,TIMERED));

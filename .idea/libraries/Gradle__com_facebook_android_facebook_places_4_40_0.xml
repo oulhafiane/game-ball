@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-places-4.40.0">
+    <CLASSES>
+      <root url="file:///goinfre/.android/build-cache/66f34610c4349e7ae2027815686ace6a52244fff/output/res" />
+      <root url="jar:///goinfre/.android/build-cache/66f34610c4349e7ae2027815686ace6a52244fff/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

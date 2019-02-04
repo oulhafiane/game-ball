@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-messenger-4.40.0">
+    <CLASSES>
+      <root url="jar:///goinfre/.android/build-cache/6ad58be18eef44ccb026161c8f6851b4a9923fcd/output/jars/classes.jar!/" />
+      <root url="file:///goinfre/.android/build-cache/6ad58be18eef44ccb026161c8f6851b4a9923fcd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

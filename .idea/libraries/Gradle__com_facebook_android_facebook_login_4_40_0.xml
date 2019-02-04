@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-login-4.40.0">
+    <CLASSES>
+      <root url="file:///goinfre/.android/build-cache/2388b2f2bcbc68cc7df40929757e262c6708df94/output/res" />
+      <root url="jar:///goinfre/.android/build-cache/2388b2f2bcbc68cc7df40929757e262c6708df94/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
